@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dictionary-Game/static/css/main.dfc03470.css",
+    "main.js": "/Dictionary-Game/static/js/main.00e5e011.js",
+    "index.html": "/Dictionary-Game/index.html",
+    "main.dfc03470.css.map": "/Dictionary-Game/static/css/main.dfc03470.css.map",
+    "main.00e5e011.js.map": "/Dictionary-Game/static/js/main.00e5e011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc03470.css",
+    "static/js/main.00e5e011.js"
+  ]
+}
