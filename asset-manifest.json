@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dictionary-Game/static/css/main.dfc03470.css",
-    "main.js": "/Dictionary-Game/static/js/main.00e5e011.js",
+    "main.css": "/Dictionary-Game/static/css/main.e46bd1de.css",
+    "main.js": "/Dictionary-Game/static/js/main.6859bfc1.js",
     "index.html": "/Dictionary-Game/index.html",
-    "main.dfc03470.css.map": "/Dictionary-Game/static/css/main.dfc03470.css.map",
-    "main.00e5e011.js.map": "/Dictionary-Game/static/js/main.00e5e011.js.map"
+    "main.e46bd1de.css.map": "/Dictionary-Game/static/css/main.e46bd1de.css.map",
+    "main.6859bfc1.js.map": "/Dictionary-Game/static/js/main.6859bfc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfc03470.css",
-    "static/js/main.00e5e011.js"
+    "static/css/main.e46bd1de.css",
+    "static/js/main.6859bfc1.js"
   ]
 }
